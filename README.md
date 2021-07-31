@@ -5,6 +5,10 @@ Based on the book from Stephen J. Wolf - [Learn Javascript: Build the Room Adven
 
 Development environment: repl.it
 
+## Useful links
+
+[MDN Web Docs](https://developer.mozilla.org/en-US/)
+
 ## Development notes
 
 ### What to build
